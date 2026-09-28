@@ -1,0 +1,1 @@
+import{i as e}from"./user--vhHkbmy.js";import{o as t}from"./QMenu-BUymXuHd.js";function n(){return{$dialog:t(),$notify:e()}}export{n as t};
